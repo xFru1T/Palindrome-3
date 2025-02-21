@@ -1,2 +1,2 @@
 # Palindrome-3
-check for Palindrome
+check for Palindrome.
